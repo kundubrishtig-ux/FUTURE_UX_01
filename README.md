@@ -1,7 +1,7 @@
 # Task 1 – Local Service Business Website Redesign
 
-Business Type: Beauty Salon  
-Design Tool: Figma  
+Business Type: GlowUp Beauty Salon  
+Design Tool: AI-assisted design (curated for UI/UX learning)
 
 ## Screens Designed
 - Homepage
@@ -9,10 +9,10 @@ Design Tool: Figma
 - Contact / Lead Page
 
 ## UX Design Rationale
-The homepage uses a clear value proposition and a primary CTA to improve conversions.
-Services are displayed in a card-based layout for easy scanning.
-The contact page focuses on lead capture using a simple form and trust elements.
-The design follows a mobile-first approach.
+The homepage is designed with a clear value proposition and prominent call-to-action buttons to drive user engagement and bookings.
+The services page uses a structured card-based layout with clear pricing and "Book Now" CTAs for easy decision-making.
+The contact page focuses on lead generation through a minimal form and trust elements to reduce user hesitation.
+The overall design follows a clean, modern, and mobile-first approach.
 
 ## Screenshots
-(Images uploaded in this repository)
+Screenshots of all designed pages are uploaded in this repository.
